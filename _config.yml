@@ -7,7 +7,7 @@ author: fei435
 signature: 童小飞的技术志
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
+  email: fei435[at]gmail.com fei435[at]qq.com
   github: //github.com/feifei435
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
@@ -39,16 +39,18 @@ about:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: 童小飞的技术志
 # keywords for site (good for SEO)
 SEO_keywords:
   - 'golang'
   - 'shell'
   - 'linux'
+  - '后端'
+  - '程序员'
 # main title shown in header image
 main_title: 童小飞的技术志
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 多读书 多记录 多成长
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
