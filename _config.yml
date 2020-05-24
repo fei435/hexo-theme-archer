@@ -1,6 +1,6 @@
 # ========== Profile ========== #
 # avatar
-avatar: /images/gopher_pirate.png
+avatar: /images/gopher_sailer.png
 # author name
 author: 童小飞
 # signature
@@ -50,7 +50,8 @@ SEO_keywords:
 # main title shown in header image
 main_title: 童小飞的技术志
 # subtitle
-subtitle: 思绪就像内存中的变量，变化难测，稍纵即逝。所以将自己在后端开发路上的思考、成长、体会在此做一个持久化。
+subtitle: 读书 思考 记录 成长
+#subtitle: 思绪就像内存中的变量，变化难测，稍纵即逝。所以将自己在后端开发路上的思考、成长、体会在此做一个持久化。
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
