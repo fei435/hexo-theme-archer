@@ -1,13 +1,13 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /images/gopher_pirate.png
 # author name
-author: fei435
+author: 童小飞
 # signature
-signature: 童小飞的技术志
+signature: 一个成长路上的后端程序员
 # SNS (you can custom the order)
 social:
-  email: fei435[at]gmail.com fei435[at]qq.com
+  email: fei435[at]gmail.com or fei435[at]qq.com
   github: //github.com/feifei435
   # wechat and qq should be a path of qr-code image
   wechat: /assets/example_qr.png
@@ -30,8 +30,8 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  #friendA: //www.baidu.com
+  #friendB: //www.google.com
   friendC: 
 about:
   enable: true
@@ -50,7 +50,7 @@ SEO_keywords:
 # main title shown in header image
 main_title: 童小飞的技术志
 # subtitle
-subtitle: 多读书 多记录 多成长
+subtitle: 思绪就像内存中的变量，变化难测，稍纵即逝。所以将自己在后端开发路上的思考、成长、体会在此做一个持久化。
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
