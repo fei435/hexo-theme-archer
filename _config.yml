@@ -1,6 +1,6 @@
 # ========== Profile ========== #
 # avatar
-avatar: /images/gopher_sailer.png
+avatar: /images/gopher_on_vacation.png
 # author name
 author: 童小飞
 # signature
@@ -27,7 +27,7 @@ social:
   linkedin: 
   steam: 
   others: 
-  rss: 
+  rss: /atom.xml
 # friends
 friends:
   #friendA: //www.baidu.com
